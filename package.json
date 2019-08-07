@@ -1,6 +1,6 @@
 {
   "name": "commentariat",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A little library for inserting comments into JS and JSX files",
   "main": "dist/commentariat.js",
   "files": [
